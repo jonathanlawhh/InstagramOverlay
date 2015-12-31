@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar_top_highlight">#ff212121</color>
+    <color name="blue_6">#ff424242</color>
+    <color name="blue_5">#ff212121</color>
+	<color name="blue_3">#ff909090</color>
+	<color name="accent_blue_6">#ff181818</color>
+	<color name="accent_blue_5">#ff757575</color>
+	<color name="status_bar_blue_background">#ff212121</color>
+	<color name="grey_dark">#ff212121</color>
+	<color name="grey_9">#ff212121</color>
+	<color name="camera_shutter_outer_ring">#ff212121</color>
+    <color name="camera_shutter_outer_ring_pressed">#ff2f3238</color>
+</resources>	
